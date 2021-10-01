@@ -1,16 +1,15 @@
-### Hi there 👋
+### David Craig, Senior Software Engineer
 
-<!--
-**DCraig-epam/DCraig-epam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on React JS projects.
 
-Here are some ideas to get you started:
+Spoken Language: English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coding Languages:
+
+ - JavaScript, incl:
+   * React
+   * TypeScript
+   * Vue
+   * ExpressJS
+ - PHP
+ - Ruby
